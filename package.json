@@ -1,0 +1,22 @@
+{
+  "name": "testing-with-jest",
+  "version": "1.0.0",
+  "description": "Labb 5",
+  "main": "src/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emilia-joha/testing-with-jest.git"
+  },
+  "author": "Emilia Johansson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emilia-joha/testing-with-jest/issues"
+  },
+  "homepage": "https://github.com/emilia-joha/testing-with-jest#readme"
+}
