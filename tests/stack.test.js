@@ -22,5 +22,5 @@ test("Check that pop delete the first element in the stack", () => {
   stack.push("Hej");
   stack.push("Då");
   expect(stack.pop()).toBeDefined();
-  expect(stack.pop()).toBe("hej");
+  expect(stack.pop()).toBe("Hej");
 });
