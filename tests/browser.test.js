@@ -38,7 +38,7 @@ describe(
       await pop.click();
       let alert = await driver.switchTo().alert();
       let text = await alert.getText();
-      expect(text.replace("Tog bort ", " ")).toEqual("Bananer");
+      expect(text.replace("Tog bort ", "")).toEqual("Bananer");
     });
   },
   defaultTimeout
