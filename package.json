@@ -21,6 +21,8 @@
   },
   "homepage": "https://github.com/emilia-joha/testing-with-jest#readme",
   "dependencies": {
+    "geckodriver": "^3.2.0",
+    "selenium-webdriver": "^4.9.1",
     "underscore": "^1.13.6"
   },
   "devDependencies": {
